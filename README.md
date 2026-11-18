@@ -1,5 +1,8 @@
 # Tortue
 
+> [!NOTE]
+> This project has since been merged in the Ribbit repo. See https://github.com/udem-dlteam/ribbit/pull/9.
+
 This repo contains an implementation of the Ribbit Virtual Machine in Haskell
 named `Tortue`.
 It was done for the `IFT-6232: Compilation` class given by Marc Feeley in Winter 2022.
